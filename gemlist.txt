@@ -1,3 +1,4 @@
+twitter
 rb-inotify
 rb-readline
 guard-shell
